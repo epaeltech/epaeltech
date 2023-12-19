@@ -1,5 +1,9 @@
 # Epael Tech
 
+## Overview
+
+Welcome to the repository for Epael Tech! Here, you'll find the source code for our comprehensive suite, encompassing our website, apps, APIs, and services. Whether you're a developer, contributor, or just curious, dive into the codebase to explore and enhance our technology ecosystem. Be sure to check out the description for clear instructions on how to contribute and collaborate with us. Welcome aboard, and let's build the future together!
+
 ![Epael Tech Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
 
 ## About Us
