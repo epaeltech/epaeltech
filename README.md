@@ -1,6 +1,6 @@
 # Epael Tech
 
-![Epael Techn Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
+![Epael Tech Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
 
 ## About Us
 
@@ -50,11 +50,11 @@ A digital audio platform to produce, master, and distribute music, podcasts, and
 
 If you share our passion for using technology to make a difference, we invite you to get involved with Epael Technologies. Here are a few ways you can connect with us:
 
-- **Explore Our Products**: Visit our [website](https://epael.tech) to learn more about our products and services.
+- **Explore Our Products**: Visit our [website](https://epael.com) to learn more about our products and services.
 
 - **Join Our Team**: We are always on the lookout for talented individuals who are enthusiastic about our mission. Check our [careers page](https://epael.com/careers) for current job opportunities.
 
-- **Contact Us**: Have questions or want to collaborate? Feel free to reach out to us at [info@epael.com](mailto:epaeltech@gmail.com).
+- **Contact Us**: Have questions or want to collaborate? Feel free to reach out to us at [info@epael.com](mailto:info@epael.com).
 
 ## Connect With Us
 
