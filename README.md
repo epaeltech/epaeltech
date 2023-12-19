@@ -1,10 +1,10 @@
-# Epael Technologies
+# Epael Techn
 
-![Epael Technologies Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
+![Epael Techn Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
 
 ## About Us
 
-Welcome to Epael Technologies, where we are committed to building products and services that empower people and enrich lives. Our mission is to make a positive impact on the continent of Africa by creating innovative solutions that address the unique challenges and opportunities present in the region.
+Welcome to Epael Tech, where we are committed to building products and services that empower people and enrich lives. Our mission is to make a positive impact on the continent of Africa by creating innovative solutions that address the unique challenges and opportunities present in the region.
 
 ## Motto
 
@@ -12,7 +12,7 @@ Welcome to Epael Technologies, where we are committed to building products and s
 
 ## Our Mission
 
-At Epael Technologies, we are driven by a bold mission:
+At Epael Tech, we are driven by a bold mission:
 
 *To build products and services that serve the continent of Africa.*
 
@@ -50,11 +50,11 @@ A digital audio platform to produce, master, and distribute music, podcasts, and
 
 If you share our passion for using technology to make a difference, we invite you to get involved with Epael Technologies. Here are a few ways you can connect with us:
 
-- **Explore Our Products**: Visit our [website](https://epael.com) to learn more about our products and services.
+- **Explore Our Products**: Visit our [website](https://epael.tech) to learn more about our products and services.
 
 - **Join Our Team**: We are always on the lookout for talented individuals who are enthusiastic about our mission. Check our [careers page](https://epael.com/careers) for current job opportunities.
 
-- **Contact Us**: Have questions or want to collaborate? Feel free to reach out to us at [info@epael.com](mailto:info@epael.com).
+- **Contact Us**: Have questions or want to collaborate? Feel free to reach out to us at [info@epael.com](mailto:epaeltech@gmail.com).
 
 ## Connect With Us
 
@@ -62,5 +62,5 @@ If you share our passion for using technology to make a difference, we invite yo
 - Like us on [Facebook](https://facebook.com/epaeltech)
 - Connect with us on [LinkedIn](https://linkedin.com/company/epaeltech)
 
-Thank you for your interest in Epael Technologies. Together, let's build a brighter future for Africa!
+Thank you for your interest in Epael Tech. Together, let's build a brighter future for Africa!
 
