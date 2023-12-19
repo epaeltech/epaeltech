@@ -1,4 +1,4 @@
-# Epael Techn
+# Epael Tech
 
 ![Epael Techn Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
 
