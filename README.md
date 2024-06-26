@@ -12,7 +12,7 @@ Welcome to Epael Tech, where we are committed to building products and services 
 
 ## Motto
 
-**Building products and services to empower people and enrich lives.**
+**Empower people and enrich lives.**
 
 ## Our Mission
 
