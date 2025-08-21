@@ -18,9 +18,9 @@ Welcome to Epael Tech, where we are committed to building products and services 
 
 At Epael Tech, we are driven by a bold mission:
 
-*To build products and services that serve the continent of Africa.*
+*To build products and services to empower people and enrich lives.*
 
-We believe in leveraging technology to bring about positive change, foster economic growth, and enhance the quality of life for individuals and communities across Africa.
+We leverage technologies that foster economic growth, enhance the quality of life, and develop individuals and communities.
 
 ## What Sets Us Apart
 
