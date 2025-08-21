@@ -8,7 +8,7 @@ Welcome to the repository for Epael Tech! Here, you'll find the source code for 
 
 ## About Us
 
-Epael Tech is a **movement** of the next generation of entrepreneurs, developers, engineers, and innovators leveraging technologies to foster economic growth, enhance the quality of life, and develop individuals and communities.
+Epael Tech is a ***movement of the next generation of entrepreneurs, developers, engineers, and innovators*** leveraging technologies to foster economic growth, enhance the quality of life, and develop individuals and communities.
 
 ## Motto
 
