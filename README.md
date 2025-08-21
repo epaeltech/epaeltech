@@ -36,27 +36,13 @@ Empowering people is at the core of what we do. Through our products and service
 
 We are committed to making a meaningful social impact. By focusing on the unique needs of the African continent, we strive to contribute to sustainable development, education, healthcare, and more.
 
-## Products and Services
-
-### StudyClass.org
-
-An e-learning platform on the mission of developing next generation creators, leaders, thinkers, and innovators in Africa.
-
-### Gobachop.com
-
-Gobachop is an eCommerce platform and a marketplace that allows anyone to legally sell anything to anyone based on the locations of the seller and buyer.
-
-### Songzaby.com
-
-A digital audio platform to produce, master, and distribute music, podcasts, and audiobooks worldwide.
-
 ## How to Get Involved
 
-If you share our passion for using technology to make a difference, we invite you to get involved with Epael Technologies. Here are a few ways you can connect with us:
+If you share our passion for using technology to make a difference, we invite you to get involved with Epael Tech. Here are a few ways you can connect with us:
 
-- **Explore Our Products**: Visit our [website](https://epael.com) to learn more about our products and services.
+- **Explore Our Website**: Visit our [website](https://epael.io) to learn more about our products and services.
 
-- **Join Our Team**: We are always on the lookout for talented individuals who are enthusiastic about our mission. Check our [careers page](https://epael.com/careers) for current job opportunities.
+- **Join Our Team**: We are always on the lookout for talented individuals who are enthusiastic about our mission. Check our [careers page](https://epael.slack.com) for current job opportunities.
 
 - **Contact Us**: Have questions or want to collaborate? Feel free to reach out to us at [info@epael.com](mailto:info@epael.com).
 
