@@ -2,13 +2,13 @@
 
 ## Overview
 
-Welcome to the repository for Epael Tech! Here, you'll find the source code for our comprehensive suite, encompassing our website, apps, APIs, and services. Whether you're a developer, contributor, or just curious, dive into the codebase to explore and enhance our technology ecosystem. Be sure to check out the description for clear instructions on how to contribute and collaborate with us. Welcome aboard, and let's build the future together!
+Welcome to the repository for Epael Tech! Here, you'll find the source code for our website. Please be sure to check out the description for clear instructions on how to contribute and collaborate with us. Welcome to the team. Let's build the future together!
 
 ![Epael Tech Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
 
 ## About Us
 
-Welcome to Epael Tech, where we are committed to building products and services that empower people and enrich lives. Our mission is to make a positive impact on the continent of Africa by creating innovative solutions that address the unique challenges and opportunities present in the region.
+Epael Tech is committed to leveraging technologies and innovations that foster economic growth, enhance the quality of life, and develop individuals and communities.
 
 ## Motto
 
@@ -19,8 +19,6 @@ Welcome to Epael Tech, where we are committed to building products and services 
 At Epael Tech, we are driven by a bold mission:
 
 *To build products and services to empower people and enrich lives.*
-
-We leverage technologies that foster economic growth, enhance the quality of life, and develop individuals and communities.
 
 ## What Sets Us Apart
 
@@ -44,7 +42,7 @@ If you share our passion for using technology to make a difference, we invite yo
 
 - **Join Our Team**: We are always on the lookout for talented individuals who are enthusiastic about our mission. Check our [careers page](https://epael.slack.com) for current job opportunities.
 
-- **Contact Us**: Have questions or want to collaborate? Feel free to reach out to us at [info@epael.com](mailto:info@epael.com).
+- **Contact Us**: Have questions or want to collaborate? Feel free to reach out to us at [info@epael.io](mailto:info@epael.io).
 
 ## Connect With Us
 
